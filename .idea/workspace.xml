@@ -1,0 +1,2178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4a0ff8f-ada8-47b0-9b62-a4790996ad79" name="Default" comment="" />
+    <ignored path="RocketCatServices.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RocketCatServices" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6643234">
+              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PlayerController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+              <folding>
+                <element signature="e#40#55#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016_03_09_214521_FacebookUserCreation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2016_03_09_214521_FacebookUserCreation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/_ide_helper.php" />
+        <option value="$PROJECT_DIR$/artisan" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/RegisterController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Models/Player.php" />
+        <option value="$PROJECT_DIR$/app/Player.php" />
+        <option value="$PROJECT_DIR$/_ide_helper_models.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_03_09_214521_FacebookUserCreation.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PlayerController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="30" />
+    <option name="width" value="1368" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RocketCatServices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/Models" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457650198000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImprcUFQRVdtSzJ1NlhINzU3ekxEaFE9PSIsInZhbHVlIjoiR04xZXF1VDN2OW1kU1VNdzlyZUY5OFJNdUE3MTc3M01wSWZpRTVqTWhVd1d0RlZjQUdIWUF1QmNaSTFpTGYyUUx3NGJMcUZSZEh0U0NleFVCMzFFa1E9PSIsIm1hYyI6IjAzNTA0MjlmZDU4OTYzMGVhNzZkYjA1Y2ViN2Y5YTI2MWZjYjFlMjgwMjE0YmFlMmJkZThkMWFkYWIzODllMDcifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457650089000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImxOam5rZVM3c3NLZ0FYeVFaZWg0Z1E9PSIsInZhbHVlIjoiZlp1WmtTMTFWdWlGYnkyZ1Q1VGFNZVwvMERKZUhFMGsrQXZDRGFFaVlOTGk3d0ZDYVRPdFRXaHNYbEc1cG42Y3lQUTd0dGVGbUdoRkdoaHh6aVk2UU1nPT0iLCJtYWMiOiI1NGQwNmIwODY4YTU1ZTc1NTE1OTM4MzQyNTIyMzlmZmI5YTMyYjliNTc2N2RkYzYxNzBkNTk2ZjU1YmU1NTcwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457650074000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZZR3pMNlpcL21LVCt6UEd2R0ErSXlnPT0iLCJ2YWx1ZSI6InVjZ3J0dmw2MldTK29KRktPcFpUYlQxRzFVdTRLY0ZOZlpPT0czbndaUW5JNGtIdHNTY2I1bHpWMzBoVVI2V3RcLytkalwveGtOTllHVDhURE9sck80U2c9PSIsIm1hYyI6IjZhNWYzMDM4YjFjMGVjMDA0YjZjZjhmMWU0M2NhNDllNjA5NTA0ODM2NmYyMTYyZWYwYzdkZjQ2NTM1NDQyNjUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457650050000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlBWYnA4a2ZmekdHMmgwdEJvS2sreEE9PSIsInZhbHVlIjoicDRaWFVuSjJaTzBQWUs3MUZzSUtTdkVrRXl1VTQzNER1Q21TbGxUeUU4REhpazlqQnJRYlE1TERVMEN3NERDSDc5eDJJKzdsSVhaWVd5cExyeHNGZ1E9PSIsIm1hYyI6ImI3Yjk2NGRlZjI4MTFjNWI4ZTQ0NmYwNTNmZGU0MzRiMWUzZjY3MGFkYjk2Y2JiNWZiMjgwZjc1YWExZmQ4ZTUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457648575000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im5lRTljMDdFTkFrdnVcL2tDcmVPaUJnPT0iLCJ2YWx1ZSI6InNZRGlXXC84RVFwcjRpMkdPNjRyaVJBTlVrdG9ueDd4Wks4dFBma1hWc1Zyc3NjVlwveTVTQkYzM0NVOWhhQVZWa0dDR2tWZE1SeVBxZkIwTHZ1NVQwNkE9PSIsIm1hYyI6IjE2Mjk4MWUxNzNlMWRlNzZmZDQ3ZmZmMjc4M2Q5MjNhNjQ0Y2FhYjEwN2RiYmI2YzRiNmZmMmZmMGZhNzZmNjIifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457648486000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik5kdmRjanoxdDBDNzRCd05OUHRhRkE9PSIsInZhbHVlIjoiMFFEQzQ5RjArSkdXallVbjBSSDRvR1wvR2Z6aFNsTHNPdmMyYlwvV21wZnFwV2hxcExkb1NBMDlIUUtObUFmbUVRWElDc1BoR055WWVlYzFMa2xKbmE4dz09IiwibWFjIjoiZTNmODM0NjRhMWUxODVjYjc1MmQxMzgwYmRiNzdiMjVjZWU2OTIxZDM1NTMyNjBhOTczZWI3ZDEwNDNkODc4NSJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457648468000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im13Z2FHZ0VvVUhWdkVVeVJXSFBOQlE9PSIsInZhbHVlIjoiaVZzSGVvNXVtXC9EbDgzbWdQSU9yTSt0VStTM0VLVzNBem1mUVEwbmRqdFlCeXk0YmpSNXcydmhzdEJaalZ2cEN6K2U1NTZPZ1MwWGlvU0ZJd2FnVFVnPT0iLCJtYWMiOiI1ZDJmM2FkMWJiZjUxM2YyMGY5N2Q5NzBhY2MyNzBjNjE1MTIxZDMyZDI0MDAzODgwYTU4OWUzNjU5OTQxYjJlIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457648455000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImhOSXpiUm9SdktMemYrNlZcLzJpTTh3PT0iLCJ2YWx1ZSI6IjBhREo1TmtGWUtDKzBiTHMzNFhyNVRhbHNVNmJ5RDJzaVZcL0V1N3ZCRVwvdXYxUkNUa01RZjhPSTl2K0RzcTQxQ0VKTnZOaVA0V2lUU3pmclpnSmUrRlE9PSIsIm1hYyI6IjY2OGE1NWY5ZjU0M2NlNTFhYjc1Y2MxZTVmNmM1ZDI3NDQwZThiZTAxN2U2MjA3NmQ5NzQ1NDQyOTk1OWM1OGUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457647709000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9ibWxDYkpzWkd4bVUyMVY0OHNQZWc9PSIsInZhbHVlIjoicnM5TzkraFNUV05Qb3JRaHR3NmRpbzliRkFWU2F1NVhSNFNcLzk0Rm12akxLNThUeFJWM3UyR1h4aXJibDhGdUhZc3RGT2RIcVEyRUlndzgwRU1HS2pBPT0iLCJtYWMiOiIyMGE4MDZiMTE0NWI2ZjY3YjgzZDcxNTJiZDk3MDMyYThmMTJhZmY1ZmQ3YmI4MTQ0NmQxM2NjNGYzMDgxYWU5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457647709000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9ibWxDYkpzWkd4bVUyMVY0OHNQZWc9PSIsInZhbHVlIjoicnM5TzkraFNUV05Qb3JRaHR3NmRpbzliRkFWU2F1NVhSNFNcLzk0Rm12akxLNThUeFJWM3UyR1h4aXJibDhGdUhZc3RGT2RIcVEyRUlndzgwRU1HS2pBPT0iLCJtYWMiOiIyMGE4MDZiMTE0NWI2ZjY3YjgzZDcxNTJiZDk3MDMyYThmMTJhZmY1ZmQ3YmI4MTQ0NmQxM2NjNGYzMDgxYWU5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457647647000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IngwWFQrVGZRakxVM2JIVlBOYm0wUkE9PSIsInZhbHVlIjoiWkNkZE5kdXFcL0RjY0hjQzZldEQ1RG1tUFJHalNqY1pNU2lNU09Tc0l1TFRoQ1l3aWZ3S25HQU1rcTdCbHVlSGNKOU16XC84ZHBqMWJXMzh0NWgyZGVuQT09IiwibWFjIjoiY2NhMmU5NzAxMGRiNzE5ZGRiMDQ5YjFkZjRjY2EwNWE3NjI5MDBmY2UyOWU1ZjljZjA3ZGU4OTZkZmY1ZTc0YyJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457647437000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkNvcTltY1VKZ215VWxBM0J4ejhuSXc9PSIsInZhbHVlIjoiVVwvV2MzZFZmeW52UEN6OTRSRWYzWDJMRGpcL3Y5NVg5Rllod1RCWk5NOUh2aDBSSXc4cWxpU2s5UnVFQk9kaHB0aFRES21lSFlHZ3dEN09wRXV3cHlFdz09IiwibWFjIjoiM2ZhNmFlY2IwYzJlOTA1MzM1MzJiOTcyNWUzMTE5NDg5ZGQxMWYwM2U2MmM4Y2FiODU3YmViNDc5ZjU4MDc0NCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646874000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImRHdXRtMXdoTDh4WHFxck5HemJWRVE9PSIsInZhbHVlIjoiMzFMSkx6bEtaV3JPTDg5OTlXNmtYc2ppYnY5N2xJbzNNMHNxXC9SYldwYk15QmNoOExxdkFjVTdzbnZkSXBPODQzU2Nyc0hhdWw1XC94b3daenFkXC9UNEE9PSIsIm1hYyI6ImU3MGNlYmQ2YTViNzNhNjQ3NDc1NzM4M2E3NTg1ZWMxZDVmMzk4NjkzMmNhMGM3MTY5YmZmYTE0ZTY4M2MyZTUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646827000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImZmaVR5dTJYcGdudjVadW0zeVhpM2c9PSIsInZhbHVlIjoiSldDKzFGM0VzUjdMODVjUkthUW9hT2R1OGpRZ0FGdFcxMmMxbmRlQjc4WVwvMFg3SHNrZ2lxblFPa3VpaDVLREM2SDNXamZHeGVsZWozaDVmSjd5NjFRPT0iLCJtYWMiOiJjNGUxNzg5ZGJkMzZkNjc5MjViZDZlYmQ3YWNkYjEyNDQ0MTUxN2YzNzMzOTQzNjAzMTg2ZmE3NTgxZDc2M2U4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646810000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjVuampsaEFETmdFM1RzM3NHTWw0WEE9PSIsInZhbHVlIjoid1F2a2tDNWJxZXZDdGQwekFtUWdGK0xpNzhIWXJPTWhvc3BTSUxjTzdzQ0txeTQxNk1RaU52UStpeHVlRmg1TTRRYnVRaGd5Umd6R1hJdlc5SzA3NkE9PSIsIm1hYyI6IjJlOTI5OWNjMmU5ZWQ3MmQ1OWZiNGZlY2FhZjUzYjMxYzIzNjFmN2NiZDFhMDczOTk0Yjk4OGNiMzk1MDdkYTIifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646778000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkhjMUlLUVFIa0pEXC9JQ0F2UFRMN2V3PT0iLCJ2YWx1ZSI6IkJtRkdTOEJFQzR3bldVMGlkMzBtb2Y4Nm90ZlwvclpWeXltRjJIcVwvV3dMak1qRGpaVU9LZHN4ZlVBMitsZ2xWbkJCVXFpU3dqcmNvQWh5RGprTjNmMkE9PSIsIm1hYyI6IjBhMjFmM2ZkMjNhOTg2NTU4MjE0YzVhZWQ0MTMwMmRhZmRkY2YxMjA4OGUwYWM5Y2YxODRhMDBiNDY1M2JlYTAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646768000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlNjeThhSWM1dlBhT1FLYVFWbUIzV3c9PSIsInZhbHVlIjoiYlBKelJzT25HckNXVHB3blhmTGRwd3lGZ2lQYUJBK3owQlh4dGhlRVB1bFFyQmdVTUUzQ2V5cjhXYStXbERzQmhaSWlzbkF1TGswXC9KckFGR1RXM2V3PT0iLCJtYWMiOiJlYmQ1YmIxZjc4MDM5MWY0OWJlM2NkZDFiMDAxZTIyZmRhNGMxMGQyZTE5OTc0OWI2ZTA4Nzc3MDc0ZmUxZTY1In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646628000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IklaK09WNllxVGRHSnZJMElKcm81bHc9PSIsInZhbHVlIjoicjFZY1VYOEoxdU1tak1wU1FwRG0rQTBDYjgrWDljWkRON1dEOEZjNW5lTm1KSmtoTElIMVpcL3NcLzh5WUJocldQTlcyWlYwdmpiZnVpNk1ac1ZvRzBrQT09IiwibWFjIjoiMjQwNmMzM2M5ZDk5Nzk4ZjJmOWQ4OTMyZWI0M2IxMzY3OWFhZTM2OGYzMTRiYmQ1MjM0MzUzMzRlZWQ5MjNmMCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646600000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InI0aTJIRkZOd1VqY0hiTHdTSjlLSFE9PSIsInZhbHVlIjoiR1pyeGlzaU5nS2JIcDRxaTI0UHlHT0pVMUxMK0UrUmNPQzRMU3VFMkMxVGVJZko3cjJqVUtRdXlGTU5aSVVHK1RJVU5yTHdxQkZUVkdrWk4rYndtVFE9PSIsIm1hYyI6IjY5YjdkMGViN2NlOGQxN2FlZGNjODE4OTdmNTBmYTllYmI2YTBjOGFjMmQ2ZmJlZjBmZTc5OTlmNTEzZmM5NzAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646568000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IllBYmVoK0d6YllIc0lhWU9TUU5LbVE9PSIsInZhbHVlIjoiZGhsMjZ1T2RnV09Zb3Vlb0JMNVFZVFpkRFY2R2hoYTZNT3BEYTlpS1YrVDhBZGRjQm9sOTlvcVVpak5oeVhkRlwvcjJiZ1MyakhMaUdwXC9Wc0hTU1wvZ0E9PSIsIm1hYyI6IjBhYTBjZjFjZTZkNDk1OWE2YWViZTZjZDBkNjI4NjRjMzMwN2Y4YTc1Zjc3MmNkODliZWNjZWYwNjAyNjlkNjUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646511000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InhmRTJLWUJIWThsVFBaWUN3RjVqNUE9PSIsInZhbHVlIjoiOU9hZjJXVHlaa0cwOExoRTVuZjVkUnhKbURwWTRjNE4zVmRrejRiQzFTdUxiWmEyYmZHcTAyNFBYUXhCblRPS0YxdEs0cjBHYnh5UVAzczREZWxHY3c9PSIsIm1hYyI6IjBkMjcxMDUzZWUxNDIzZWZlNDQ3YTIxNTAwNzBlODk0YzU5ZWJhZDYwNDEyZmQzNWJkOWMzY2JkNDJhZjZiZmQifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457646493000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IldTcG9UcWxjckhKaUY0MVgyRmpBN3c9PSIsInZhbHVlIjoiSitOY1RVN3Zucm9yOGgxanZleDJCamxtUFU3ZWxoVHI3eTFaU3VoRHQycGlFUGY4ZUYxZ3NDbCt5WlwveXM3MVpnVEk5d1dZSDRpaXRkQnVvaXVkRG1BPT0iLCJtYWMiOiIxNWQwNWUyMGZlN2U4NjBlMDkyNjZhNDU5M2M3M2Y4YmFmMDIxOGZlODc3NDk0OThkODZmODExY2IyNTE0MjJmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457645735000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IktVQTFrYk1ROEIwejNrdHMrUzV6XC9BPT0iLCJ2YWx1ZSI6ImRkZ3dOWVAwNXBwaCtIeHBGVEl6N1pqZGh0V1M0MHVcL2xUdUZVZTB5UFlqQldBXC9RaHVSb3M3S2ZTVDhYZzFoN2dZWHVFNTh2M0RaWkthcDVRcHNVdmc9PSIsIm1hYyI6ImRiOTdiNmRjMWY5ZDMwNWFkMjA4YjU2NGQ2ZDhlMWYxZmQzOTZkMjQwMWJhMzBkZGU3NjhmNzUzMDc2NmE2MTEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457645724000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IncxeVRXZ0dyYTdxa3lycWRFamdGMFE9PSIsInZhbHVlIjoiNnRYRjZaNUdVWEROZkJtcDhjTXVMb2pXMFwvQUwzdG1CUElCZDFuOWI0Q1cySHE4ZWkrWk9TdmloY0JoM1o3WjQySTdkMlQ3SDdtdnZUaDRaYmRvXC8ydz09IiwibWFjIjoiNzJkYmI5MzdhMWNjMTU0YzA2NWY2Yzg2MjU4NjdiZDhhYmIyNmNiNzUxMmViZmQwNTBhNDM5YjNkY2M4M2Y2NCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457645060000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ikt1WllHOTZZbzNkdlpXcHR0YlBqS0E9PSIsInZhbHVlIjoiRDYyNGJjUU9OejVMTkpyeVQxT296VHlZT2Uzd3h5S21cL2c5djJsbTNZaEVuRkNyWFwvNEhrSnpLbGhFV2lmbWpDUW9FTVFNYXAzMVpYQysxZUNuXC9uUmc9PSIsIm1hYyI6IjVkZTVmOGVmYjI0MzhkOTQ3MDc1MDVkMzJiYTNlMTk2N2FlOWY0NGFmNWMyMjJkNzNkNWUxOGVjNzVkZGQ3NTgifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457645040000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjRyZ2QwMGhSSHpMZ2ZQUHRaajM2NGc9PSIsInZhbHVlIjoiSlluZlprM2dTV0xySGd1ditUVWw2MWVDYVwvZW9GZm1vbXZRa2dwK0dGZ2c4TE5Bb3JrekVHOUxiT29MaVNTejRHcEdcLzBLTWZYTGxtZjRwOGdTVXB1dz09IiwibWFjIjoiOThiZGFkMGYwMzQzMmYxNmM4Yzk4ZDFlZGRlMTQ0Y2I0MzA2MjEwMmYyMmNlMDY1ZGM4YWY1OTNkYmY5MTk3OCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457645031000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InFlTmtQOUF6Rk50ZURCUm9uM2l3d1E9PSIsInZhbHVlIjoiaFdURDF2Z0xPMGdRSGNGMzNBQWkrOUhVaUcxZk5adzRkc3BUOGw2MnB1bUdhY3I2NGNFYUpiNlBPSFRMRTV6OGlocDFlZGxzaTRpa1d3RlVETnc0YlE9PSIsIm1hYyI6ImEzZTE3MjIwN2Q0ZjhjZjhlMTdiZGRiNDJiZTZhNjdkNjM1OWRiZTAzMWQ3NGRjOTNjMjIwNjJmNjFkNmQ3YTcifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457644375000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InUxQTNsNDZNc1RPMlplcFlDaW10QWc9PSIsInZhbHVlIjoid0Z3SFdOWXJ5NFhLYnRQUFRsYTI5THFqcTA0YmFhVFNOZGN0bXdiMFNKa1JoRitrNXZoXC9YdXltdGlIVEpDeEgzcHQ1aUwwbXRcL25mWUozMnlJXC9reHc9PSIsIm1hYyI6ImJlYmFhM2JmMjk5NDAxZDg4NDVjZDY3MTU2M2Q3NzA2OGVkYjM3Mzg0MjIxNjcyZGE4ZWJmN2EyM2IzMmY4ZjAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1457644244000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjcxMmVjck5JV2hCR1hpeUpOdWhyUnc9PSIsInZhbHVlIjoicmVDNm04WW9uTmliVDdYOWVlM0c4Tkw3NmdVNlpYUFg3NnRDZkhGMk5WbU1OTHVsbjFnekRScEV6RTY3ekEzM3hBRURQM0c1c0ZcL2pZYVFBcWpMbzZnPT0iLCJtYWMiOiIwZWJlN2RmOTYzYjBlNDUwYmU5Y2YxMjRlMjAzM2Q5OWMyYjNlZmQxODM0YmY2ZTU1ZmE2MmM3ZjI5Nzg0YjExIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="facebookId" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="altitude" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="score" />
+                <option name="value" value="20" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4a0ff8f-ada8-47b0-9b62-a4790996ad79" name="Default" comment="" />
+      <created>1457538086909</created>
+      <option name="number" value="Default" />
+      <updated>1457538086909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26510575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4012841" sideWeight="0.521148" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.46676737" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4012841" sideWeight="0.47885197" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.4939577" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PlayerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding>
+            <element signature="e#40#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_03_09_214521_FacebookUserCreation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_03_09_214521_FacebookUserCreation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_ide_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="516.6391">
+          <caret line="10425" column="19" selection-start-line="10425" selection-start-column="19" selection-end-line="10425" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50410956">
+          <caret line="789" column="20" selection-start-line="789" selection-start-column="20" selection-end-line="789" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/compile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.814815">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9232877">
+          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.479452">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8056426">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8683386">
+          <caret line="188" column="9" selection-start-line="188" selection-start-column="9" selection-end-line="188" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_ide_helper_models.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39452055">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.88767123">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_03_09_214521_FacebookUserCreation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PlayerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding>
+            <element signature="e#40#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6643234">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
