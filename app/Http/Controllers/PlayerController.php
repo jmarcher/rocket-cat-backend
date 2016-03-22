@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Player;
+use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -38,13 +39,18 @@ class PlayerController extends Controller
      */
     public function store(Request $request)
     {
-        $player = new Player();
-        $player->id =  $request->input('id');
-        $player->facebookName = $request->input('facebookName');
-        $player->altitude = $request->input('altitude');
-        $player->score = $request->input('score');
-
-        $player->save();
+        $player = null;
+        try{
+            $player = Player::findOrFail($request->input('id'));
+        }catch (ModelNotFoundException $e){
+            $player = new Player();
+            $player->id =  $request->input('id');
+            $player->facebookName = $request->input('facebookName');
+            $player->altitude = $request->input('altitude');
+            $player->score = $request->input('score');
+            $player->save();
+        }
+        return \Response::json($player);
     }
 
     /**

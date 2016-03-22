@@ -8,7 +8,7 @@ class Player extends Model
 {
     //
 
-    protected $table = 'Players';
+    //protected $table = 'Players';
 
     /*protected $fillable=[
         'facebookId',

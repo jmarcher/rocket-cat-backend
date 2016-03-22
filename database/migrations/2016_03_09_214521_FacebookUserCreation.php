@@ -13,7 +13,7 @@ class FacebookUserCreation extends Migration
     public function up()
     {
         //
-        Schema::create('Players', function(Blueprint $table){
+        Schema::create('players', function(Blueprint $table){
             $table->integer('id')->unique();
             $table->string('facebookName');
             $table->integer('altitude')->unsigned();
@@ -30,6 +30,6 @@ class FacebookUserCreation extends Migration
      */
     public function down()
     {
-        Schema::drop('Players');
+        Schema::drop('players');
     }
 }
