@@ -46,8 +46,8 @@ class PlayerController extends Controller
             $player = new Player();
             $player->id =  $request->input('id');
             $player->facebookName = $request->input('facebookName');
-            $player->altitude = isEmpty($request->input('altitude')) ? 0 : $request->input('altitude');
-            $player->score = isEmpty($request->input('score')) ? 0 : $request->input('score');
+            $player->altitude = empty($request->input('altitude')) ? 0 : $request->input('altitude');
+            $player->score = empty($request->input('score')) ? 0 : $request->input('score');
             $player->save();
         }
         return \Response::json($player);
