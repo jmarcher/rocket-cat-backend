@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4a0ff8f-ada8-47b0-9b62-a4790996ad79" name="Default" comment="Corregida la funcion a empty">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e4a0ff8f-ada8-47b0-9b62-a4790996ad79" name="Default" comment="Corregida la funcion a empty" />
     <ignored path="RocketCatServices.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
@@ -47,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -123,7 +120,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response53.html" root0="SKIP_INSPECTION" />
+    <setting file="dummy://restClient/response57.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -226,6 +223,92 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1458708813000" />
+                <option name="domain" value="rocketcat.nerdscorner.com.uy" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImRUbHlJZlhBNlpHSWpWb3VRS1wvd1RnPT0iLCJ2YWx1ZSI6Ikh4cXlPcVpzZytRRnFPREdkRTA4ZjUySWxZUmFwUXl2TTdcLzlwS3JBWVwvQUhoQkNsY1lGNVMrNDgwanFHWWV0dHk4K1IzazltYnRyZnJzSjFnWDhPRnc9PSIsIm1hYyI6ImM2ODBjZjgxMzdmNzQ4YmI0MDY5YzkwNTY2ZjgyOGU4YjkyZjZhMzhhZjcwYTcwNTM3YzJkNWQxODExMmI0OTQifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://rocketcat.nerdscorner.com.uy" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="2323" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1458708481000" />
+                <option name="domain" value="rocketcat.nerdscorner.com.uy" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImZTTHVkSGpyd1wvMHFiTFROWGJhcWh3PT0iLCJ2YWx1ZSI6InRlSDF2VmoyUFM4Q2VuTXdqUXVWNXdWTFphRFpuSHQxRlJhN040MlVFTG8zd0hEWExPdEt4MmhBYjNVTXM3WnVmVnVvek0rQ1E5djdxMEhSZ0FZWVJBPT0iLCJtYWMiOiJiZWE2MGM2NzFhOTc1Yzk1NTY1MTJjMzcyZDI2NmU2MDAwMjcxMTBhNDcwZjk4MTFmMDZmOTMyMDM4NDk5MmVjIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://rocketcat.nerdscorner.com.uy" />
+          <option name="urlPath" value="/player" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="2323" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="facebookName" />
+                <option name="value" value="Julio Roca" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="biscuits">
             <list>
@@ -2174,7 +2257,7 @@
       <updated>1457538086909</updated>
       <workItem from="1458678198013" duration="869000" />
       <workItem from="1458685067789" duration="1781000" />
-      <workItem from="1458687569651" duration="4317000" />
+      <workItem from="1458687569651" duration="5586000" />
     </task>
     <task id="LOCAL-00001" summary="altitude y score pueden venir vacías, se toma como el primer registro">
       <created>1458701232936</created>
@@ -2194,7 +2277,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6967000" />
+    <option name="totallyTimeSpent" value="8236000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2207,7 +2290,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2607,18 +2690,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="2130" column="9" selection-start-line="2130" selection-start-column="9" selection-end-line="2130" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -2633,10 +2716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="194">
+          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
           <folding />
         </state>
       </provider>
